@@ -1,0 +1,7 @@
+DOCTYPE
+html(lang='es')
+	head
+		meta(charset="UTF-8")
+		title Document
+	body
+		h1 documento HTML 5
